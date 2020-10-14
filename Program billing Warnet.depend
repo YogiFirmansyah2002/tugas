@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602169791 source:c:\dev\program billing warnet\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
